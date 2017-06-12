@@ -1,4 +1,4 @@
-hsbdfjhshhhhhhhhhhhhh# angular-seed — the seed for AngularJS apps
+ksjdbjksdnhsbdfjhshhhhhhhhhhhhh# angular-seed — the seed for AngularJS apps
 
 ##### changed read me to pusj
 
